@@ -1,0 +1,6 @@
+In this folder you can find the exercises I solved using Microsoft SQL Server Management Studio.
+
+I used the AdventureWorks sample database recommended by https://learn.microsoft.com, which you can find here https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
+
+I solved the exercises from here:
+https://www.w3resource.com/sql-exercises/adventureworks/adventureworks-exercises.php
