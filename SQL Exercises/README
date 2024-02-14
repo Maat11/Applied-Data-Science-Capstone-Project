@@ -3,6 +3,3 @@ In this folder you can find the exercises I solved using Microsoft SQL Server Ma
 I used the AdventureWorks sample database recommended by https://learn.microsoft.com, which you can find here https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
 to solve the exercises from here:
 https://www.w3resource.com/sql-exercises/adventureworks/adventureworks-exercises.php
-
-
-I used this DB https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?resource=download to practice data normalization
