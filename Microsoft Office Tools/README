@@ -5,10 +5,13 @@ I used:
       - PowerPoint to create 'ProcurementPresentation' and 'SpendAnalysis_Presentation' files
 
 - PowerBI to solve 'PowerBI_BiancaPractice_GharaniTutorial' file
-- PowerBI to solve 'Start-Power-Bi-Essentials-Dataset', '5 Power BI Visuals Data Set', 'Power-BI-DAX-Data-Set', 'Power BI Dataset vF', and 'Power BI Dataset' files*
-*I have chosen to continue with PowerBI because I can't use PowerQuery in Microsoft Office 2010 due to an error I get when I try to install it (the Add-In Power Query to Excel 2010)
-
 - Microsoft Office 2010 to exercise creating Macros (and comments), for the 'Macros-START' file
+
+I have chosen to continue with PowerBI because I can't use PowerQuery in Microsoft Office 2010 due to an error I get when I try to install it (the Add-In Power Query to Excel 2010)
+- PowerBI to solve 'Start-Power-Bi-Essentials-Dataset' file. I only cleaned the data, because the rest of the tutorial was beyond my scope at the moment
+- PowerBI to clean the data in 'm01_cleaned'
+
+
 
 
 
@@ -20,10 +23,11 @@ Excel - 'Pivot-Table-Exercise' - https://excel-practice-online.com
 Excel - 'pokemon' - https://www.kaggle.com/datasets/rounakbanik/pokemon
 Excel - 'DataCleaning_(AlexTheAnalystFreeTraining)' - https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Data%20Cleaning%20Excel%20Tutorial.xlsx
 Excel - 'ExcelProject_(AlexTheAnalystFreeTraining)' - https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
-Excel - 'Macros-START' - https://youtu.be/IZY0SpSpYTM?si=ja_tShBUxM5e0xUS (you can find the file in the description)
+Excel - 'Macros-START' - https://youtu.be/IZY0SpSpYTM?si=ja_tShBUxM5e0xUS (you can find the link to download the file in the description)
 
 PowerPoint - recources for the 'ProcurementPresentation' file are cited in its last slide
 PowerPoint - recources for the 'SpendAnalysis_Presentation' file are cited in its last slide
 
-PowerBI - https://www.youtube.com/watch?v=c7LrqSxjJQQ (you can find the file in the description)
-PowerBI - https://youtube.com/playlist?list=PLCZxHKdpVXC5D0QzNehI-n-14SXxaGwfO&si=zDfw3kLQS5Qt4zSV (you can find the files in the descriptions)
+PowerBI - https://www.youtube.com/watch?v=c7LrqSxjJQQ (you can find the link to download the file in the description)
+PowerBI - https://youtu.be/nkmHqs1I_z0?si=aPCYNnDfvZEa9IEM (you can find the link to download the file in the description)
+PowerBI - https://www.youtube.com/watch?v=PiFAa_jjaEI (you can find the link to download the file in the description)
