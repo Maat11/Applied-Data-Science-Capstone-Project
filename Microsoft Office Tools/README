@@ -18,9 +18,8 @@ I used:
 I have chosen to continue with PowerBI because I can't use PowerQuery in Microsoft Office 2010 due to an error I get when I try to install it, and the free version of 365 does not have PowerQuery
 - 'Start-Power-Bi-Essentials-Dataset' (I only cleaned the data, because the rest of the tutorial was beyond my scope at the moment)
 - 'm01_cleaned'
-- 'PopulationByCity&Year' 
-
-
+- 'PopulationByCity&Year'
+- 'fromFolderCSV'
 
 
 
@@ -39,5 +38,5 @@ PowerPoint - recources for the 'SpendAnalysis_Presentation' file are cited in it
 
 PowerBI - 'PowerBI_BiancaPractice_GharaniTutorial' - https://www.youtube.com/watch?v=c7LrqSxjJQQ (you can find the link to download the file in the description)
 PowerBI - 'Start-Power-Bi-Essentials-Dataset' - https://youtu.be/nkmHqs1I_z0?si=aPCYNnDfvZEa9IEM (you can find the link to download the file in the description)
-PowerBI - 'm01_cleaned' - https://www.youtube.com/watch?v=PiFAa_jjaEI (you can find the link to download the file in the description)
+PowerBI - 'm01_cleaned', 'fromFolderCSV' - https://www.youtube.com/watch?v=PiFAa_jjaEI (you can find the link to download the file in the description)
 PowerBI - 'PopulationByCity&Year' - https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Romania
