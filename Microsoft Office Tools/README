@@ -1,15 +1,23 @@
 I used:
 
 - the free version of Microsoft Office 365 
-      - Excel to solve 'xlookup exercises', 'w3schools.com_excel', 'Pivot-Table-Exercise', 'pokemon', 'DataCleaning_(AlexTheAnalystFreeTraining)', and 'ExcelProject_(AlexTheAnalystFreeTraining)' files
-      - PowerPoint to create 'ProcurementPresentation' and 'SpendAnalysis_Presentation' files
+      - Excel to solve 
+            - 'xlookup exercises'
+            - 'w3schools.com_excel'
+            - 'Pivot-Table-Exercise'
+            - 'pokemon'
+            - 'DataCleaning_(AlexTheAnalystFreeTraining)'
+            - 'ExcelProject_(AlexTheAnalystFreeTraining)'
+      - PowerPoint to create
+            - 'ProcurementPresentation'
+            - 'SpendAnalysis_Presentation'
 
 - PowerBI to solve 'PowerBI_BiancaPractice_GharaniTutorial' file
 - Microsoft Office 2010 to exercise creating Macros (and comments), for the 'Macros-START' file
 
-I have chosen to continue with PowerBI because I can't use PowerQuery in Microsoft Office 2010 due to an error I get when I try to install it (the Add-In Power Query to Excel 2010)
-- PowerBI to solve 'Start-Power-Bi-Essentials-Dataset' file. I only cleaned the data, because the rest of the tutorial was beyond my scope at the moment
-- PowerBI to clean the data in 'm01_cleaned'
+I have chosen to continue with PowerBI because I can't use PowerQuery in Microsoft Office 2010 due to an error I get when I try to install it, and the free version of 365 does not have PowerQuery
+- 'Start-Power-Bi-Essentials-Dataset' (I only cleaned the data, because the rest of the tutorial was beyond my scope at the moment)
+- 'm01_cleaned'
 
 
 
@@ -28,6 +36,6 @@ Excel - 'Macros-START' - https://youtu.be/IZY0SpSpYTM?si=ja_tShBUxM5e0xUS (you c
 PowerPoint - recources for the 'ProcurementPresentation' file are cited in its last slide
 PowerPoint - recources for the 'SpendAnalysis_Presentation' file are cited in its last slide
 
-PowerBI - https://www.youtube.com/watch?v=c7LrqSxjJQQ (you can find the link to download the file in the description)
-PowerBI - https://youtu.be/nkmHqs1I_z0?si=aPCYNnDfvZEa9IEM (you can find the link to download the file in the description)
-PowerBI - https://www.youtube.com/watch?v=PiFAa_jjaEI (you can find the link to download the file in the description)
+PowerBI - 'PowerBI_BiancaPractice_GharaniTutorial' - https://www.youtube.com/watch?v=c7LrqSxjJQQ (you can find the link to download the file in the description)
+PowerBI - 'Start-Power-Bi-Essentials-Dataset' - https://youtu.be/nkmHqs1I_z0?si=aPCYNnDfvZEa9IEM (you can find the link to download the file in the description)
+PowerBI - 'm01_cleaned' - https://www.youtube.com/watch?v=PiFAa_jjaEI (you can find the link to download the file in the description)
