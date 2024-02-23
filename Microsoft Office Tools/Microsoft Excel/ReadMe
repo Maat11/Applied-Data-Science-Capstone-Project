@@ -1,0 +1,23 @@
+I used:
+
+- the free version of Microsoft Office 365 Excel to solve 
+  - 'xlookup exercises'
+  - 'w3schools.com_excel'
+  - 'Pivot-Table-Exercise'
+  - 'pokemon'
+  - 'DataCleaning_(AlexTheAnalystFreeTraining)'
+  - 'ExcelProject_(AlexTheAnalystFreeTraining)'
+
+- Microsoft Office 2010 to exercise creating Macros (and comments), for the 'Macros-START' file
+
+I have chosen to practice Power Queries in PowerBI because I can't use PowerQuery in Microsoft Office 2010 due to an error I get when I try to install it, and the free version of 365 does not have PowerQuery.
+
+
+Resources used:
+'w3schools.com_excel' - https://www.w3schools.com
+'xlookup exercises' - I created a fictional DB
+'Pivot-Table-Exercise' - https://excel-practice-online.com
+'pokemon' - https://www.kaggle.com/datasets/rounakbanik/pokemon
+'DataCleaning_(AlexTheAnalystFreeTraining)' - https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Data%20Cleaning%20Excel%20Tutorial.xlsx
+'ExcelProject_(AlexTheAnalystFreeTraining)' - https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
+'Macros-START' - https://youtu.be/IZY0SpSpYTM?si=ja_tShBUxM5e0xUS (you can find the link to download the file in the description)
